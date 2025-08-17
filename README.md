@@ -1,4 +1,8 @@
 # Projet_de_soutenance_de_master
+Ce projet Python combine reconnaissance faciale, vocale et OCR pour identifier des utilisateurs de manière sécurisée. Il peut être utilisé dans des systèmes de sécurité, de contrôle d’accès ou d’identification automatisée.
+
+---
+
 # BioID Vision – Reconnaissance multimodale (Visage, Voix, OCR)
 
 Projet Python combinant plusieurs techniques d’intelligence artificielle pour réaliser une **reconnaissance biométrique multimodale** :  
